@@ -1,0 +1,1 @@
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\Media.Plugin.Sample.UWP.csproj;x86

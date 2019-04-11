@@ -1,0 +1,9 @@
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\bin\Debug\netstandard1.0\Plugin.Media.deps.json
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\bin\Debug\netstandard1.0\Plugin.Media.dll
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\bin\Debug\netstandard1.0\Plugin.Media.pdb
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\netstandard1.0\Media.Plugin.csprojAssemblyReference.cache
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\netstandard1.0\Media.Plugin.csproj.CoreCompileInputs.cache
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\netstandard1.0\Media.Plugin.AssemblyInfoInputs.cache
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\netstandard1.0\Media.Plugin.AssemblyInfo.cs
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\netstandard1.0\Plugin.Media.dll
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\netstandard1.0\Plugin.Media.pdb

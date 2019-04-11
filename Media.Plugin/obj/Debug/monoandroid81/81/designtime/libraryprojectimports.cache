@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\lp\3\jl\arch-core-common.jar</Jar>
+    <Jar>C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\lp\4\jl\arch-lifecycle-common.jar</Jar>
+    <Jar>C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\lp\5\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\lp\6\jl\support-annotations.jar</Jar>
+    <Jar>C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\lp\7\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\lp\8\jl\bin\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\lp\7\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories />
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\lp\7.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

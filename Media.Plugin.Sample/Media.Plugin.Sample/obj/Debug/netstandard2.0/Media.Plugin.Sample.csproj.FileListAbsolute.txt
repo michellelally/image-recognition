@@ -1,0 +1,15 @@
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\bin\Debug\netstandard2.0\Media.Plugin.Sample.deps.json
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\bin\Debug\netstandard2.0\Media.Plugin.Sample.dll
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\bin\Debug\netstandard2.0\Media.Plugin.Sample.pdb
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\bin\Debug\netstandard2.0\Plugin.Media.dll
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\bin\Debug\netstandard2.0\Plugin.Media.pdb
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\obj\Debug\netstandard2.0\Media.Plugin.Sample.csprojAssemblyReference.cache
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\obj\Debug\netstandard2.0\MediaPage.xaml.g.cs
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\obj\Debug\netstandard2.0\Media.Plugin.Sample.csproj.CoreCompileInputs.cache
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\obj\Debug\netstandard2.0\Media.Plugin.Sample.AssemblyInfoInputs.cache
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\obj\Debug\netstandard2.0\Media.Plugin.Sample.AssemblyInfo.cs
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\obj\Debug\netstandard2.0\Media.Plugin.Sample.csproj.CopyComplete
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\obj\Debug\netstandard2.0\Media.Plugin.Sample.dll
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\obj\Debug\netstandard2.0\Media.Plugin.Sample.pdb
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample\obj\Debug\netstandard2.0\XamlC.stamp
