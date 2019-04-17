@@ -1,6 +1,6 @@
 Image Processing using Microsoft Cognitive Services Computer Vision API
 
-This project is desgined for Android, iOS and UWP to take an image provided by the user and return information about the visual content found in the image. This application will allow you to analyze a locally stored image using the Computer Vision's REST API. The API will extract visual features and content based on that image. 
+This project is designed for Android, iOS and UWP to take an image provided by the user and return information about the visual content found in the image. This application will allow you to analyse a locally stored image using the Computer Vision's REST API. The API will extract visual features and content based on that image. 
 
 Steps: 
 1. The user chooses to either take a photo using their camera, or upload an image stored in their gallery/documents.
