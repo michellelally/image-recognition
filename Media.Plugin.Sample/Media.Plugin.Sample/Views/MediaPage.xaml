@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Media.Plugin.Sample.MediaPage"
+			 xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+			 ios:Page.UseSafeArea="True"
+			 xmlns:local="clr-namespace:XamlSamples;assembly=XamlSamples">
+
+	<ContentPage.Resources>
+		<DataTemplate x:Key="CaptionsTemplate">
+			<ViewCell>
+					<StackLayout Padding="20, 10">
+						<Label Text="Caption"/>
+						<Label Text="{Binding Path=Text}"/>
+						<Label Text="Confidence"/>
+						<Label Text="{Binding Path=Confidence}"/>
+					</StackLayout>
+				</ViewCell>
+			</DataTemplate>
+		<DataTemplate x:Key="DescriptionTemplate">
+			<ViewCell>
+				<StackLayout Padding="20, 10">
+					<Label Text="Tags"/>
+					<Label Text="{Binding .}"/>
+				</StackLayout>
+			</ViewCell>
+		</DataTemplate>
+	</ContentPage.Resources>
+
+	<StackLayout Spacing="10" Padding="10">
+		<Button x:Name="takePhoto" Text="Take Photo"/>
+		<Button x:Name="pickPhoto" Text="Pick Photo"/>
+		<Button x:Name="analyze" Text="Analyze"/>
+		<StackLayout x:Name="ImageList">
+		</StackLayout>
+
+		<ListView Margin="3, 3, 3, 0"
+                  ItemsSource="{Binding Photo.Description.Captions, Mode=TwoWay}"
+                  Grid.Row="1" Grid.Column="0"
+                  ItemTemplate="{StaticResource CaptionsTemplate}" />
+
+		<ListView Margin="3, 3, 3, 0"
+                  ItemsSource="{Binding  Photo.Description.Tags, Mode=TwoWay}"
+                  Grid.Row="1" Grid.Column="0"
+                  ItemTemplate="{StaticResource DescriptionTemplate}" />
+	</StackLayout>
+
+
+
+</ContentPage>

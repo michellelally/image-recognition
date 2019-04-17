@@ -526,6 +526,7 @@
         "lib/monoandroid80/Plugin.Permissions.dll",
         "lib/monoandroid80/Plugin.Permissions.pdb",
         "lib/monoandroid81/Plugin.Permissions.dll",
+        "lib/monoandroid81/Plugin.Permissions.dll.mdb",
         "lib/monoandroid81/Plugin.Permissions.pdb",
         "lib/netstandard1.0/Plugin.Permissions.dll",
         "lib/netstandard1.0/Plugin.Permissions.pdb",

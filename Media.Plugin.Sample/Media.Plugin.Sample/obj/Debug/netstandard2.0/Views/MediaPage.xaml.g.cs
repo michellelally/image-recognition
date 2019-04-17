@@ -8,12 +8,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Media.Plugin.Sample.MediaPage.xaml", "MediaPage.xaml", typeof(global::Media.Plugin.Sample.MediaPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Media.Plugin.Sample.Views.MediaPage.xaml", "Views/MediaPage.xaml", typeof(global::Media.Plugin.Sample.MediaPage))]
 
 namespace Media.Plugin.Sample {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MediaPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\MediaPage.xaml")]
     public partial class MediaPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
@@ -26,11 +26,15 @@ namespace Media.Plugin.Sample {
         private global::Xamarin.Forms.Button analyze;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.StackLayout ImageList;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MediaPage));
             takePhoto = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "takePhoto");
             pickPhoto = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "pickPhoto");
             analyze = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "analyze");
+            ImageList = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.StackLayout>(this, "ImageList");
         }
     }
 }

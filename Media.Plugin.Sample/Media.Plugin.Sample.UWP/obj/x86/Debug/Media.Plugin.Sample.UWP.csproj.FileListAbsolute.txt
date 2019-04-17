@@ -1,3 +1,4 @@
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\Data\data.txt
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\App.xbf
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\MainPage.xbf
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\Media.Plugin.Sample.UWP.xr.xml
@@ -8,6 +9,8 @@ C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plug
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\Core\AppxManifest.xml
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\Core\Media.Plugin.Sample.UWP.exe
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\Media.Plugin.Sample.UWP.build.appxrecipe
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\Newtonsoft.Json.pdb
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\Plugin.Permissions.dll
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\Plugin.Permissions.pdb
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\clrcompression.dll
@@ -307,5 +310,3 @@ C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plug
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\obj\x86\Debug\Plugin.Permissions.pri.xml
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\obj\x86\Debug\ProjectArchitectures.txt
-C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\Newtonsoft.Json.dll
-C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin.Sample\Media.Plugin.Sample.UWP\bin\x86\Debug\Newtonsoft.Json.pdb

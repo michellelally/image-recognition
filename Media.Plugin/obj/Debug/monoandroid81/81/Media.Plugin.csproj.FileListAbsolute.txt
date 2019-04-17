@@ -11,6 +11,7 @@ C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\bin\Debug\monoand
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\bin\Debug\monoandroid81\81\Xamarin.Android.Support.Compat.dll
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\bin\Debug\monoandroid81\81\Xamarin.Android.Support.Core.Utils.dll
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\Media.Plugin.csprojAssemblyReference.cache
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\libraryimports.cache.stamp
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\res.flag
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\Media.Plugin.csproj.CoreCompileInputs.cache
@@ -23,3 +24,4 @@ C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoand
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\R.cs.flag
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\R.txt
 C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\obj\Debug\monoandroid81\81\uploadflags.txt
+C:\Users\Shelley\Downloads\MediaPlugin-master\src\Media.Plugin\bin\Debug\monoandroid81\81\Plugin.Media.dll.mdb

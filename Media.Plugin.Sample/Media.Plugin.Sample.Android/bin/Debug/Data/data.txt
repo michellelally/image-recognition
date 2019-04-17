@@ -1,0 +1,15 @@
+﻿{
+  "description": {
+    "tags": ["grass", "outdoor", "building", "house", "small", "sitting", "home", "yard", "front", "green", "old", "lawn", "bench", "fire", "wooden", "clock", "area", "red", "table", "large", "parked", "field", "white", "brick", "yellow", "hydrant", "standing", "street", "track", "man", "sign"],
+    "captions": [{
+      "text": "a house with a lawn in front of a building",
+      "confidence": 0.96699597333240173
+    }]
+  },
+  "requestId": "9968f7f7-8b5c-4e5b-9f7c-22a82fcb10ec",
+  "metadata": {
+    "width": 1000,
+    "height": 563,
+    "format": "Jpeg"
+  }
+}
